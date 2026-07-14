@@ -1,3 +1,5 @@
+// Template: copy contents into apps/web/src/app/page.tsx
+
 import Link from 'next/link';
 
 const features = [
